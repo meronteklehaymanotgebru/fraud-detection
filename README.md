@@ -164,6 +164,7 @@ cd fraud-detection
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
+```
 Run the full pipeline:
 
     notebooks/eda-fraud-data.ipynb
